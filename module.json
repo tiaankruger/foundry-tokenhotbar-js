@@ -15,7 +15,7 @@
     ],
     "packs": [
         {
-            "name": "token-hotbar",
+            "id": "token-hotbar",
             "label": "Token Hotbar",
             "entity": "Macro",
             "path": "./packs/token-hotbar.db",
