@@ -17,7 +17,7 @@
         {
             "id": "token-hotbar",
             "label": "Token Hotbar",
-            "entity": "Macro",
+            "tyoe": "Macro",
             "path": "./packs/token-hotbar.db",
             "module": "token-hotbar"
         }
